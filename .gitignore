@@ -1,0 +1,10 @@
+Processor.cache/
+Processor.hw/
+Processor.ip_user_files/
+Processor.runs/
+Processor.sim/
+Processor.srcs/sources_1/ip/dataram8/*
+Processor.srcs/sources_1/ip/instrom/*
+
+!Processor.srcs/sources_1/ip/dataram8/dataram8.xci
+!Processor.srcs/sources_1/ip/instrom/instrom.xci
